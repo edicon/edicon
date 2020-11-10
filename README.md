@@ -1,4 +1,6 @@
+<!-- Ref. Doc: https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 <!--[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)-->
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Lee.
