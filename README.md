@@ -24,6 +24,24 @@ I'm Lee.
 
 <h1 align='center'><i>Stay awesome!</i></h1>
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/edicon/edicon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edicon&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/edicon/edicon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edicon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Edicon's GitHub Stats" />
+</a>
+
+<a href="https://github.com/edicon/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edicon&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/edicon/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edicon&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>  
+
 <!--
 **edicon/edicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
