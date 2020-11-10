@@ -5,6 +5,10 @@
 I'm Lee.
 </p>
 
+<p align='center'>For enquiries, reach out @ hslee.edicon@gmail.com or over on </p>
+
+<h1 align='center'><i>Stay awesome!</i></h1>
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -19,10 +23,6 @@ I'm Lee.
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-
-<p align='center'>For enquiries, reach out @ hslee.edicon@gmail.com or over on </p>
-
-<h1 align='center'><i>Stay awesome!</i></h1>
 
 ## &#x1f4c8; GitHub Stats
 
